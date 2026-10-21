@@ -1,0 +1,16 @@
+nav{
+    background-color: #646464;
+    padding: 16px;
+}
+
+nav a{
+    color: aliceblue;
+    font-size: 32px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
