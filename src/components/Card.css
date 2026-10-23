@@ -1,0 +1,15 @@
+.card{
+    width: 20%;
+    /* height: 30vh; */
+    margin: 32px;
+    padding: 16px;
+    padding-bottom: 128px;
+    box-shadow: 0px 0px 16px 0px gray;
+    border-radius: 8px;
+}
+.card > img{
+    width: 100%;
+    min-height: 90%;
+    object-fit: cover;
+
+}
